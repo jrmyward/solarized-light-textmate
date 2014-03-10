@@ -2,7 +2,7 @@
   "name": "solarized-light-textmate",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Solarized Color Scheme ported from TextMate",
   "repository": "https://github.com/atom/solarized-light-textmate",
   "license": "MIT",
   "engines": {
